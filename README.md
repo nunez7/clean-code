@@ -16,3 +16,9 @@ yarn dev
 ó
 npm run dev
 ```
+
+Dependencia de axios 
+```
+yarn add axios
+yarn remove axios
+```
